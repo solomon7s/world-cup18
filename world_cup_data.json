@@ -710,8 +710,8 @@
                     "type": "group",
                     "home_team": 7,
                     "away_team": 8,
-                    "home_result": null,
-                    "away_result": null,
+                    "home_result": 0,
+                    "away_result": 0,
                     "date": "2018-06-15T18:00:00+03:00",
                     "stadium": 3,
                     "channels": [
