@@ -1741,8 +1741,8 @@
                 {
                     "name": 63,
                     "type": "loser",
-                    "home_team": "win_61",
-                    "away_team": "win_62",
+                    "home_team": "lose_61",
+                    "away_team": "lose_62",
                     "home_result": null,
                     "away_result": null,
                     "home_penalty": null,
