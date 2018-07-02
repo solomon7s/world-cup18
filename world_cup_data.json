@@ -1617,8 +1617,8 @@
                 {
                     "name": 57,
                     "type": "winner",
-                    "home_team": "win_49",
-                    "away_team": "win_50",
+                    "home_team": 4,
+                    "away_team": 9,
                     "home_result": null,
                     "away_result": null,
                     "home_penalty": null,
